@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Crime and Punishment",
+      "author": "Dostoyevsky",
+      "image": "/images/crime-and-punishment.jpg",
+      "year": 1866,
+      "page": 500,
+      "description": "A masterpiece that explores Raskolnikov's internal conflicts."
+    },
+    {
+      "id": 2,
+      "title": "The Book of Delusions",
+      "author": "Emil Cioran",
+      "image": "/images/cioran.jpg",
+      "year": 1932,
+      "page": 250,
+      "description": "A work by Emil Cioran containing existential and melancholic thoughts."
+    },
+    {
+      "id": 3,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "image": "/images/les-miserables-.jpg",
+      "year": 1862,
+      "page": 1463,
+      "description": "An epic novel focusing on a long history and social justice."
+    },
+    {
+      "id": 4,
+      "title": "My Sweet Orange Tree",
+      "author": "José Mauro de Vasconcelos",
+      "image": "/images/My Sweet Orange Tree.webp",
+      "year": 1968,
+      "page": 224,
+      "description": "A classic children's novel in Brazilian literature."
+    },
+    {
+      "id": 5,
+      "title": "My Childhood",
+      "author": "Maxim Gorky",
+      "image": "/images/my-childhood-.jpg",
+      "year": 1913,
+      "page": 389,
+      "description": "An absurd war novel set during the period of World War II."
+    },
+    {
+      "id": 6,
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "image": "/images/of-mice.jpg",
+      "year": 1937,
+      "page": 107,
+      "description": "A compelling story about friendship and dreams."
+    },
+    {
+      "id": 7,
+      "title": "The Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "image": "/images/The Book of Disquiet.jpg",
+      "year": 1982,
+      "page": 272,
+      "description": "One of the significant works of modernist literature."
+    },
+    {
+      "id": 8,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "image": "/images/Animal Farm.jpg",
+      "year": 1945,
+      "page": 112,
+      "description": "A novel allegorically portraying societal critique."
+    },
+    {
+      "id": 9,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoyevsky",
+      "image": "/images/the-brothers-karamazov-.jpg",
+      "year": 1880,
+      "page": 824,
+      "description": "One of Dostoyevsky's masterpieces, addressing moral issues and family relationships."
+    },
+    {
+      "id": 10,
+      "title": "The Death of Ivan Ilyich",
+      "author": "Leo Tolstoy",
+      "image": "/images/the-death.jpg",
+      "year": 1886,
+      "page": 92,
+      "description": "A profound reflection on a man's death and the meaning of life."
+    },
+    {
+      "id": 11,
+      "title": "The World as Will and Representation",
+      "author": "Arthur Schopenhauer",
+      "image": "/images/the-world.jpg",
+      "year": 1818,
+      "page": 520,
+      "description": "An important work representing Arthur Schopenhauer's metaphysical and philosophical thoughts."
+    },
+    {
+      "id": 12,
+      "title": "They Shoot Horses, Don't They?",
+      "author": "Horace McCoy",
+      "image": "/images/They.webp",
+      "year": 1935,
+      "page": 139,
+      "description": "A human drama unfolding during a dance marathon."
+    }
+  ]
+}
