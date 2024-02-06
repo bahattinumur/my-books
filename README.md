@@ -26,8 +26,4 @@ Using Vite + React and React Router DOM, I have created a webpage. The webpage s
 
 <h2> Screen Gif </h2>
 
-![](mybooks.gif)
-
-<h2> Screen Gif </h2>
-
 ![](second.gif)
